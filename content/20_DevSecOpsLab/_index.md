@@ -147,11 +147,11 @@ In this attack we will try to purposely crash this application and see if we can
 
 And in password, any value
 
-Notice that instead of returning an error message that this user and password do not exist or some other more conpressive message for the user, it returned a message **"[object Object]"**
+Notice that instead of returning an error message that this user and password do not exist or some other more comprehensive message for the user, it returned a message **"[object Object]"**
 
 ![SecurityMisconfiguration](/images/jc-securitymisconfiguration2.PNG) 
 
-### 3. Still in the browser, if we are going to investigate how the response to this request arrived for us.
+### 3. Still in the browser, let’s investigate how the application responded to our request.
 
 - If you are in Chrome, press the key **F12** from your keyboard.
 

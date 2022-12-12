@@ -161,7 +161,7 @@ To use the Continuous Compliance feature we'll need a network plugin with Networ
 
 {{% notice warning %}}
 <p style='text-align: left;'>
-Amazon EKS doesn't maintain the manifests used in the following procedures. The recommended way to install Calico on Amazon EKS is by using the Calico Operator instead of these manifests. But as this is a ephemeral enviroment to us to learn we will use this manifests.
+Amazon EKS doesn't maintain the manifests used in the following procedures. The recommended way to install Calico on Amazon EKS is by using the Calico Operator instead of these manifests. But as this is an ephemeral environment for us to learn we will use these manifests.
 </p>
 {{% /notice %}}
 

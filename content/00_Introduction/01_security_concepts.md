@@ -23,7 +23,7 @@ Security Development Lifecycle is a process to ensure security when developing s
 Some interesting points in SDL for our Workshop:
 
 #### Training: 
-Devs and software engineers must have some understanding of at least security fundamentals. For example, educating on attacks behavior and security terminology.
+Devs and Software Engineers must at least have some understanding of security fundamentals. For example, educating on attacks behavior and security terminology.
 
 #### Conformity:
 Define the minimum acceptable levels of security quality.
@@ -45,7 +45,7 @@ Will look for strange behavior in the application while it is running. It can al
 ### Threat Modeling
 One of the definitions that we can find on [Owasp](https://owasp.org/www-community/Threat_Modeling) "Threat modeling works to identify, communicate, and understand threats and mitigations within the context of protecting something of value. A threat model is a structured representation of all the information that affects the security of an application. In essence, it is a view of the application and its environment through the lens of security." 
 
-#### Why Should I Threat Model?
+#### Why Should we Threat Model?
 One of the main advantages of doing Threat Modeling is that you will be able to recognize a problem in your system before you even start to develop, test and even implement it. And with that, mitigate the problem more quickly and not have to wait for it to appear in later phases in the project.
 
 #### Phases

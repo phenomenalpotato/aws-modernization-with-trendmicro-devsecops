@@ -125,7 +125,7 @@ A Cloud One Account is required to proceed. If you have not registered for a Clo
 
 ### 4. Go to VS Code
 
-- Click em extensions
+- Click on extensions
 - Search for ```Snyk Security - Code, Open Source Dependencies, IaC Configurations```
 - Click on install in the **ec2 machine**
 
@@ -242,7 +242,7 @@ You have to be logged in to Cloud One for this screen to appear
 
 ## Introducing Trend Micro Cloud One™ –  Conformity
 
-Cloud One - Conformity is a cloud native service that help you avoid cloud service misconfigurations. With Conformity, you can achieve continuous security, compliance, and governance for your multi-cloud environment.
+Cloud One - Conformity is a cloud native service that helps us avoid cloud service misconfigurations. With Conformity, we can achieve continuous security, compliance, and governance for our multi-cloud environment.
 
 In this part we will scan the Cloud Formation Template of the infrastructure that will host our application. 
 

@@ -7,7 +7,7 @@ pre: "<b>4. </b>"
 
 # Code Stage
 
-We will simulate that we work in a company where we will implement security in the code phase with the developers. And also ensure that our security conduct is followed in the Pipeline if this is not practiced while the code is being done. Our team is responsible for the security of the cloud infrastructure and also the application. For this, we will use 4 technologies in this step:
+We will simulate that we work in a company where we will implement security in the code phase with the developers and also ensure that our security conduct is followed in the Pipeline if this is not practiced while the code is being done. Our team is responsible for the security of the cloud infrastructure and also the application. For this, we will use 4 technologies in this step:
 
 
 - [Horusec](https://github.com/ZupIT/horusec)

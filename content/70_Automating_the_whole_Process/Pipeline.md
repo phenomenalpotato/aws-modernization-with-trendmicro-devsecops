@@ -163,7 +163,7 @@ Finally let's deploy everything we've done so far automatically so that we have 
 
 {{% notice warning %}}
 <p style='text-align: left;'>
-Sometimes this action can happen to fail because the maximum number of requests to Docker Hub has been reached. You can click on the <b>Retry button</b> that appears when an action fails.
+Sometimes this action could fail due to the maximum number of requests to Docker Hub has been reached. You can click on the <b>Retry button</b> that appears when an action fails.
 </p>
 {{% /notice %}}
 
@@ -247,7 +247,7 @@ Sometimes this action can happen to fail because the maximum number of requests 
 
 {{% notice warning %}}
 <p style='text-align: left;'>
-Sometimes this action can happen to fail because the maximum number of requests to Docker Hub has been reached. You can click on the <b>Retry button</b> that appears when an action fails.
+Sometimes this action could fail due to the maximum number of requests to Docker Hub has been reached. You can click on the <b>Retry button</b> that appears when an action fails.
 </p>
 {{% /notice %}}
 

@@ -171,7 +171,7 @@ In the Cluster-Wide Policy Definition area, configure the rules that you want to
 
 **In the search box, search for and select the Ruleset we created earlier** ```TrendMicroDevSecOpsWorkshopRules```
 
-**Click on the clue button Apply**
+**Click on the blue button Apply**
 
 ![EKS_CS](/images/ekscs13.7.PNG)
 
@@ -301,7 +301,7 @@ Don't forget to put your <strong>ApiKey on the line with the name apiKey: your_a
 
 ![EKS_CS](/images/ekscs22.PNG)
 
-- **Now our deploy has not been blocked as we are not trying to deploy a privileged container**
+- **Now our deployment has not been blocked as we are not trying to deploy a privileged container**
 
 {{% notice info %}}
 <p style='text-align: left;'>
