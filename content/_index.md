@@ -9,8 +9,7 @@ weight: 1
 ## DevSecOps Protection with Trend Micro - Cloud One
 ![TrendMicro](/images/logo.png)
 
-In this workshop, you’ll learn how to leverage the Cloud One Platform to enforce the detection and protection policy
-in Applications, Elastic Kubernetes Service, Open Source Projects and your IaC Templates!
+In this workshop, you’ll learn how to leverage the Cloud One Platform to enforce the detection and protection in Applications, Elastic Kubernetes Service, Open Source Projects and your IaC Templates!
 
 Using **Trend Micro - Cloud One** you will learn how to automate security deployment a using pipeline and AWS.
 
