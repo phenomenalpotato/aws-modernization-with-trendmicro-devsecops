@@ -10,7 +10,7 @@ weight: 1
 ![TrendMicro](/images/logo.png)
 
 In this workshop, you’ll learn how to leverage the Cloud One Platform to enforce the detection and protection policy
-in Applications, Elastic Container Service, Open Source Projects and your IaC Templates!
+in Applications, Elastic Kubernetes Service, Open Source Projects and your IaC Templates!
 
 Using **Trend Micro - Cloud One** you will learn how to automate security deployment a using pipeline and AWS.
 
